@@ -9,4 +9,8 @@ app.get("/", (req, res) => {
     })
 })
 
-app.listen(3333);
+app.listen(process.env.port || 8000, () => {
+    console.log(`
+        Servidor disponível em http://localhost:${process.env.port || 8000}
+    `)
+});

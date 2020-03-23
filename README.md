@@ -34,6 +34,8 @@ Ou
 $ yarn start
 ```
 
+Após a execução a aplicação poderá ser acessada `https://localhost:8000`
+
 ### Front-end
 
 A aplicação front-end foi desenvolvida utilizando `react`+`typescript`.
@@ -61,3 +63,5 @@ Ou
 ```bash
 $ yarn start
 ```
+
+Após a execução a aplicação poderá ser acessada `https://localhost:3000`
