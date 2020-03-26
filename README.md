@@ -34,7 +34,7 @@ Ou
 $ yarn start
 ```
 
-Após a execução a aplicação poderá ser acessada `https://localhost:8000`
+Após a execução a aplicação poderá ser acessada http://localhost:8000
 
 ### Front-end
 
@@ -64,4 +64,4 @@ Ou
 $ yarn start
 ```
 
-Após a execução a aplicação poderá ser acessada `https://localhost:3000`
+Após a execução a aplicação poderá ser acessada http://localhost:3000
